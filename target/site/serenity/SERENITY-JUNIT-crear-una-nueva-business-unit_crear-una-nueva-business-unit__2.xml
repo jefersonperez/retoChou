@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="crear una nueva Business Unit" skipped="0" tests="1" time="5.27" timestamp="2021-07-28T12:06:47.457099400-05:00[America/Bogota]"><testcase name="crear una nueva Business Unit"><error message="Could not instantiate new WebDriver instance of type class org.openqa.selenium.chrome.ChromeDriver (session not created: This version of ChromeDriver only supports Chrome version 90&#10;Current browser version is 92.0.4515.107 with binary path C:\Program Files (x86)\Google\Chrome\Application\chrome.exe&#10;Build info: version: '3.5.2', revision: '10229a9', time: '2017-08-21T17:29:55.15Z'&#10;System info: host: 'CHBOGPF0GXYT4', ip: '192.168.1.171', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'&#10;Driver info: driver.version: ChromeDriver&#10;remote stacktrace: Backtrace:&#10;&#9;Ordinal0 [0x011EC013+2474003]&#10;&#9;Ordinal0 [0x011829C1+2042305]&#10;&#9;Ordinal0 [0x01092F68+1060712]&#10;&#9;Ordinal0 [0x010B188E+1185934]&#10;&#9;Ordinal0 [0x010AD600+1168896]&#10;&#9;Ordinal0 [0x010AAA83+1157763]&#10;&#9;Ordinal0 [0x010DA2A2+1352354]&#10;&#9;Ordinal0 [0x010D8FAA+1347498]&#10;&#9;Ordinal0 [0x010D66DB+1337051]&#10;&#9;Ordinal0 [0x010B3427+1192999]&#10;&#9;Ordinal0 [0x010B42EE+1196782]&#10;&#9;Ordinal0 [0x010B4279+1196665]&#10;&#9;GetHandleVerifier [0x013796FC+1590332]&#10;&#9;GetHandleVerifier [0x01428614+2306900]&#10;&#9;GetHandleVerifier [0x01279E93+543699]&#10;&#9;GetHandleVerifier [0x012792CE+540686]&#10;&#9;Ordinal0 [0x011886BA+2066106]&#10;&#9;Ordinal0 [0x0118D1C8+2085320]&#10;&#9;Ordinal0 [0x0118D308+2085640]&#10;&#9;Ordinal0 [0x011967F3+2123763]&#10;&#9;BaseThreadInitThunk [0x77AE6359+25]&#10;&#9;RtlGetAppContainerNamedObjectPath [0x77D47A94+228]&#10;&#9;RtlGetAppContainerNamedObjectPath [0x77D47A64+180]&#10;" type="net.thucydides.core.webdriver.UnsupportedDriverException">Could not instantiate new WebDriver instance of type class org.openqa.selenium.chrome.ChromeDriver (session not created: This version of ChromeDriver only supports Chrome version 90
+Current browser version is 92.0.4515.107 with binary path C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Build info: version: '3.5.2', revision: '10229a9', time: '2017-08-21T17:29:55.15Z'
+System info: host: 'CHBOGPF0GXYT4', ip: '192.168.1.171', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x011EC013+2474003]
+	Ordinal0 [0x011829C1+2042305]
+	Ordinal0 [0x01092F68+1060712]
+	Ordinal0 [0x010B188E+1185934]
+	Ordinal0 [0x010AD600+1168896]
+	Ordinal0 [0x010AAA83+1157763]
+	Ordinal0 [0x010DA2A2+1352354]
+	Ordinal0 [0x010D8FAA+1347498]
+	Ordinal0 [0x010D66DB+1337051]
+	Ordinal0 [0x010B3427+1192999]
+	Ordinal0 [0x010B42EE+1196782]
+	Ordinal0 [0x010B4279+1196665]
+	GetHandleVerifier [0x013796FC+1590332]
+	GetHandleVerifier [0x01428614+2306900]
+	GetHandleVerifier [0x01279E93+543699]
+	GetHandleVerifier [0x012792CE+540686]
+	Ordinal0 [0x011886BA+2066106]
+	Ordinal0 [0x0118D1C8+2085320]
+	Ordinal0 [0x0118D308+2085640]
+	Ordinal0 [0x011967F3+2123763]
+	BaseThreadInitThunk [0x77AE6359+25]
+	RtlGetAppContainerNamedObjectPath [0x77D47A94+228]
+	RtlGetAppContainerNamedObjectPath [0x77D47A64+180]
+</error><system-err>Could not instantiate new WebDriver instance of type class org.openqa.selenium.chrome.ChromeDriver (session not created: This version of ChromeDriver only supports Chrome version 90
+Current browser version is 92.0.4515.107 with binary path C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+Build info: version: '3.5.2', revision: '10229a9', time: '2017-08-21T17:29:55.15Z'
+System info: host: 'CHBOGPF0GXYT4', ip: '192.168.1.171', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '15.0.2'
+Driver info: driver.version: ChromeDriver
+remote stacktrace: Backtrace:
+	Ordinal0 [0x011EC013+2474003]
+	Ordinal0 [0x011829C1+2042305]
+	Ordinal0 [0x01092F68+1060712]
+	Ordinal0 [0x010B188E+1185934]
+	Ordinal0 [0x010AD600+1168896]
+	Ordinal0 [0x010AAA83+1157763]
+	Ordinal0 [0x010DA2A2+1352354]
+	Ordinal0 [0x010D8FAA+1347498]
+	Ordinal0 [0x010D66DB+1337051]
+	Ordinal0 [0x010B3427+1192999]
+	Ordinal0 [0x010B42EE+1196782]
+	Ordinal0 [0x010B4279+1196665]
+	GetHandleVerifier [0x013796FC+1590332]
+	GetHandleVerifier [0x01428614+2306900]
+	GetHandleVerifier [0x01279E93+543699]
+	GetHandleVerifier [0x012792CE+540686]
+	Ordinal0 [0x011886BA+2066106]
+	Ordinal0 [0x0118D1C8+2085320]
+	Ordinal0 [0x0118D308+2085640]
+	Ordinal0 [0x011967F3+2123763]
+	BaseThreadInitThunk [0x77AE6359+25]
+	RtlGetAppContainerNamedObjectPath [0x77D47A94+228]
+	RtlGetAppContainerNamedObjectPath [0x77D47A64+180]
+&#13;
+com.choucair.formacion.steps.HomeStep.openHomePage(HomeStep.java:12)&#13;
+com.choucair.formacion.definition.InsuranceStepDefinition.iAmOnTheHomePageStarSharp(InsuranceStepDefinition.java:48)&#13;
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#13;
+java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:64)&#13;
+java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#13;
+org.eclipse.jdt.internal.junit4.runner.JUnit4TestReference.run(JUnit4TestReference.java:89)&#13;
+org.eclipse.jdt.internal.junit.runner.TestExecution.run(TestExecution.java:41)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:542)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.runTests(RemoteTestRunner.java:770)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.run(RemoteTestRunner.java:464)&#13;
+org.eclipse.jdt.internal.junit.runner.RemoteTestRunner.main(RemoteTestRunner.java:210)&#13;
+</system-err></testcase></testsuite>
